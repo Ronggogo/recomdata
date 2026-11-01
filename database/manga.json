@@ -7,5 +7,32 @@
     "cover": "https://via.placeholder.com/200x300/141414/39ff14?text=The%20Demon%20King%20Overrun%20by%20Heroes",
     "downloadUrl": "https://raw.githubusercontent.com/Ronggogo/recomdata/main/Action/The%20Demon%20King%20Overrun%20by%20Heroes.cbz",
     "apiUrl": "https://api.github.com/repos/Ronggogo/recomdata/contents/Action/The%20Demon%20King%20Overrun%20by%20Heroes.cbz?ref=main"
+  },
+  {
+    "id": "The S-Classes That I Raised",
+    "title": "The S Classes That I Raised",
+    "category": "Comedy",
+    "fileName": "The S-Classes That I Raised.cbz",
+    "cover": "https://via.placeholder.com/200x300/141414/39ff14?text=The%20S%20Classes%20That%20I%20Raised",
+    "downloadUrl": "https://raw.githubusercontent.com/Ronggogo/recomdata/main/Comedy/The%20S-Classes%20That%20I%20Raised.cbz",
+    "apiUrl": "https://api.github.com/repos/Ronggogo/recomdata/contents/Comedy/The%20S-Classes%20That%20I%20Raised.cbz?ref=main"
+  },
+  {
+    "id": "The World After The End",
+    "title": "The World After The End",
+    "category": "Comedy",
+    "fileName": "The World After The End.cbz",
+    "cover": "https://via.placeholder.com/200x300/141414/39ff14?text=The%20World%20After%20The%20End",
+    "downloadUrl": "https://raw.githubusercontent.com/Ronggogo/recomdata/main/Comedy/The%20World%20After%20The%20End.cbz",
+    "apiUrl": "https://api.github.com/repos/Ronggogo/recomdata/contents/Comedy/The%20World%20After%20The%20End.cbz?ref=main"
+  },
+  {
+    "id": "The Youngest Son of the Eunhae Merchant Group",
+    "title": "The Youngest Son of the Eunhae Merchant Group",
+    "category": "Comedy",
+    "fileName": "The Youngest Son of the Eunhae Merchant Group.cbz",
+    "cover": "https://via.placeholder.com/200x300/141414/39ff14?text=The%20Youngest%20Son%20of%20the%20Eunhae%20Merchant%20Group",
+    "downloadUrl": "https://raw.githubusercontent.com/Ronggogo/recomdata/main/Comedy/The%20Youngest%20Son%20of%20the%20Eunhae%20Merchant%20Group.cbz",
+    "apiUrl": "https://api.github.com/repos/Ronggogo/recomdata/contents/Comedy/The%20Youngest%20Son%20of%20the%20Eunhae%20Merchant%20Group.cbz?ref=main"
   }
 ]
